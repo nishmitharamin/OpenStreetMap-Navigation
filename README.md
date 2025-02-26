@@ -42,6 +42,7 @@ This application uses:
 ## Note
 
 Internet connection is required for the application to work properly as it fetches map data from OpenStreetMap servers.
+https://nishmitharamin.github.io/OpenStreetMap-Navigation/
 
 
 ![image](https://github.com/user-attachments/assets/d263f2fb-8f62-4238-a6b8-37ca02e0543d)
